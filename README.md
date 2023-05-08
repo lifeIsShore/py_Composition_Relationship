@@ -2,7 +2,7 @@
 
 <html>
   <head>
-    <title>Python Composition Relationship</title>
+    
   </head>
   <body>
     <h1>Python Composition Relationship</h1>
